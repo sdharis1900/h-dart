@@ -1,0 +1,30 @@
+void main() {
+  var a=10;
+  var b= 5;
+  print(a+b);
+  print(a-b);
+  print(a*b);
+  print(a/b);
+  print(a~/b);
+  print(a%b);
+  
+  
+  var c= 2;
+  var d= c++;
+  print(d);
+  
+  var e= 2;
+  var f= e-- ;
+  print(f);
+  
+  
+  var h = 10;
+  var y = 20;
+  
+  var s = h++;
+  var n = ++y;
+  
+  print(s);
+  print(n); 
+  
+}
